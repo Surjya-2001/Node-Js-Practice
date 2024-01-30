@@ -1,0 +1,28 @@
+{
+  "name": "url-shortner-using-node-js",
+  "version": "1.0.0",
+  "description": "url shortner",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surjya-2001/Node-Js-Practice.git"
+  },
+  "author": "Surjya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surjya-2001/Node-Js-Practice/issues"
+  },
+  "homepage": "https://github.com/Surjya-2001/Node-Js-Practice#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "nanoid": "^5.0.4",
+    "nodemon": "^3.0.3"
+  }
+}
